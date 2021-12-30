@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- 📑 [Solution URL here](https://your-solution-url.com)
-- 👀 [Live site URL here](https://irs-mp.github.io/3-column-card/)
+- 📑 [Solution URL here](https://github.com/Irs-mp/stats-preview-card)
+- 👀 [Live site URL here](https://irs-mp.github.io/stats-preview-card/)
 
 ## My process
 
